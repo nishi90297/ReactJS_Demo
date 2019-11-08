@@ -1,0 +1,6 @@
+.backgroundStyling {
+  background: url('../images/bg2.jpg') center center / cover no-repeat fixed;
+  }
+  .backgroundNoStyling {
+    background : none;
+  }
